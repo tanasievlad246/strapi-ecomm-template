@@ -1,0 +1,19 @@
+{
+  "name": "ecomm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanasievlad246/strapi-ecomm-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanasievlad246/strapi-ecomm-template/issues"
+  },
+  "homepage": "https://github.com/tanasievlad246/strapi-ecomm-template#readme"
+}
